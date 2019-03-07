@@ -74,6 +74,13 @@
 	
 5. 组件
 
+    注册公共组件：
+
+        //main.js
+
+        import Nav from './components/Nav'
+
+        Vue.component('nav-com',Nav);
 
 
 ## vue-router 
